@@ -3,8 +3,6 @@
 <p>
 	Semilar to <i>cmd ipconfig</i> but this software only generate the <strong>IPv4 Address</strong>. This software is tended for GLOBE/TM free internet checker
 </p>
-See: <a href="https://www.phcorner.net/t/18mbps-ph-server-for-pc-only-proxycap-tutorial.224027/" target="_blank">https://www.phcorner.net/t/18mbps-ph-server-for-pc-only-proxycap-tutorial.224027/</a>
-<br>
 <br>
 <strong>Requirements</strong>
 <br>
